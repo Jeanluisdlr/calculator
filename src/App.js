@@ -3,7 +3,7 @@ import FreecodecampLogo from "./images/FreecodecampLogo.png";
 import Button from "./Components/Buttons";
 import Display from "./Components/Display";
 import ClearButton from "./Components/ClearButton";
-import { useState } from "react";
+import React, { useState } from "react";
 import { evaluate } from "mathjs";
 
 function App() {
